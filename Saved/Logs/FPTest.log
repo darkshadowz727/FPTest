@@ -1574,3 +1574,125 @@ LogInit: Object subsystem initialized
 [2020.04.17-16.58.45:911][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target" FILE="../../../../../../Documents/Unreal Projects/FPTest/Saved/Autosaves/Game/Target_Auto3.uasset" SILENT=false AUTOSAVING=true
 [2020.04.17-16.58.45:971][ 99]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/Target_Auto37BEFB083434FCAB9DB42D2885C3BAE5F.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Saved/Autosaves/Game/Target_Auto3.uasset'
 [2020.04.17-16.58.45:973][ 99]LogFileHelpers: Auto-saving content packages took 0.063
+[2020.04.17-17.08.46:421][845]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Menu' took 0.066
+[2020.04.17-17.08.46:424][845]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Target] ([1] browsable assets)...
+[2020.04.17-17.08.46:424][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/Target]
+[2020.04.17-17.08.46:424][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target" FILE="../../../../../../Documents/Unreal Projects/FPTest/Saved/Autosaves/Game/Target_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.04.17-17.08.46:517][845]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/Target_Auto465920627476EEC42AE5A12BCDEA0BCAB.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Saved/Autosaves/Game/Target_Auto4.uasset'
+[2020.04.17-17.08.46:521][845]LogFileHelpers: Auto-saving content packages took 0.099
+[2020.04.17-17.10.16:749][ 85]BlueprintLog: New page: Compile GameInstance2
+[2020.04.17-17.10.16:861][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameInstance2" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/GameInstance2.uasset" SILENT=true
+[2020.04.17-17.10.16:915][ 85]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/GameInstance27613F07045146CC280EA47AE110905ED.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/GameInstance2.uasset'
+[2020.04.17-17.10.17:461][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameInstance2" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/GameInstance2.uasset" SILENT=true
+[2020.04.17-17.10.17:514][104]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/GameInstance25B0184AE459A46177D87CB96CB0D2E80.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/GameInstance2.uasset'
+[2020.04.17-17.10.41:178][205]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{357522e2-dafd-491a-83d8-ac754201781e} was removed. Shutting down audio device.
+[2020.04.17-17.10.41:178][205]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.17-17.11.00:514][255]LogInit: XAudio2 using 'Headphones (E7 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.17-17.26.42:356][608]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Menu' took 0.063
+[2020.04.17-17.26.42:359][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Target] ([1] browsable assets)...
+[2020.04.17-17.26.42:402][608]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Target.Target]
+[2020.04.17-17.26.42:402][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/Target]
+[2020.04.17-17.26.42:402][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target" FILE="../../../../../../Documents/Unreal Projects/FPTest/Saved/Autosaves/Game/Target_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.04.17-17.26.42:518][608]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/Target_Auto529F59C724995BBEF3AB581AE2D399D14.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Saved/Autosaves/Game/Target_Auto5.uasset'
+[2020.04.17-17.26.42:523][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameInstance2] ([1] browsable assets)...
+[2020.04.17-17.26.42:523][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameInstance2]
+[2020.04.17-17.26.42:523][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameInstance2" FILE="../../../../../../Documents/Unreal Projects/FPTest/Saved/Autosaves/Game/GameInstance2_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.04.17-17.26.42:608][608]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/GameInstance2_Auto52E411D214D87F9D64BA641BBA08999AB.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Saved/Autosaves/Game/GameInstance2_Auto5.uasset'
+[2020.04.17-17.26.42:609][608]LogFileHelpers: Auto-saving content packages took 0.252
+[2020.04.17-17.26.57:242][653]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.17-17.33.48:526][871]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{a57674ff-98cb-4737-88fc-5b5adc792c16} was removed. Shutting down audio device.
+[2020.04.17-17.33.48:526][871]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.17-17.33.49:021][872]LogInit: XAudio2 using 'Speakers (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.17-17.34.10:174][935]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.17-17.34.45:813][157]LogAssetEditorManager: Opening Asset editor for World /Game/Menu.Menu
+[2020.04.17-17.34.47:009][157]LogSlate: Window 'Save Content' being destroyed
+[2020.04.17-17.34.47:025][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameInstance2" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/GameInstance2.uasset" SILENT=true
+[2020.04.17-17.34.47:082][157]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/GameInstance2F72B495549128982A3EE18ABF92DBC8B.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/GameInstance2.uasset'
+[2020.04.17-17.34.47:092][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/Target.uasset" SILENT=true
+[2020.04.17-17.34.47:146][157]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/Target74FD5C6D4ECA54991DFB659C23CBF73C.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/Target.uasset'
+[2020.04.17-17.34.47:161][157]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.17-17.34.47:162][157]LightingResults: New page: Lighting Build
+[2020.04.17-17.34.47:163][157]LoadErrors: New page: Loading map: Menu.umap
+[2020.04.17-17.34.47:164][157]MapCheck: New page: Map Check
+[2020.04.17-17.34.47:164][157]LightingResults: New page: Lighting Build
+[2020.04.17-17.34.47:257][157]LogAIModule: Creating AISystem for world Menu
+[2020.04.17-17.34.47:269][157]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.17-17.34.47:375][157]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.17-17.34.50:394][157]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,019.106ms to complete.
+[2020.04.17-17.34.50:399][157]LogFileHelpers: Loading map 'Menu' took 3.242
+[2020.04.17-17.34.52:989][268]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.17-17.34.53:005][268]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.04.17-17.34.53:043][268]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.17-17.34.53:043][268]LightingResults: New page: Lighting Build
+[2020.04.17-17.34.53:044][268]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2020.04.17-17.34.53:044][268]MapCheck: New page: Map Check
+[2020.04.17-17.34.53:044][268]LightingResults: New page: Lighting Build
+[2020.04.17-17.34.53:103][268]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.17-17.34.53:177][268]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.17-17.34.53:306][268]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 127.956ms to complete.
+[2020.04.17-17.34.53:308][268]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.266
+[2020.04.17-17.34.55:380][359]LogRenderer: Reallocating scene render targets to support 856x372 Format 9 NumSamples 1 (Frame:93).
+[2020.04.17-17.34.55:493][360]LogRenderer: Reallocating scene render targets to support 860x372 Format 9 NumSamples 1 (Frame:95).
+[2020.04.17-17.34.55:592][361]LogRenderer: Reallocating scene render targets to support 944x372 Format 9 NumSamples 1 (Frame:97).
+[2020.04.17-17.34.55:717][362]LogRenderer: Reallocating scene render targets to support 984x372 Format 9 NumSamples 1 (Frame:99).
+[2020.04.17-17.34.55:831][363]LogRenderer: Reallocating scene render targets to support 1008x372 Format 9 NumSamples 1 (Frame:101).
+[2020.04.17-17.34.55:947][364]LogRenderer: Reallocating scene render targets to support 1024x372 Format 9 NumSamples 1 (Frame:103).
+[2020.04.17-17.35.03:760][725]LogEditorViewport: Clicking on Actor (LMB): Target_C (Target2)
+[2020.04.17-17.35.08:850][946]LogEditorViewport: Clicking on Actor (LMB): Target_C (Target3)
+[2020.04.17-17.35.11:261][ 51]LogEditorViewport: Clicking on Actor (LMB): Target_C (Target)
+[2020.04.17-17.35.14:026][174]LogEditorViewport: Clicking on Actor (LMB): Target_C (Target3)
+[2020.04.17-17.35.18:039][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.17-17.35.18:082][347]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.17-17.35.18:116][347]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.17-17.35.18:116][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.17-17.35.18:116][347]PIE: New page: PIE session: FirstPersonExampleMap (Apr 17, 2020, 9:35:18 AM)
+[2020.04.17-17.35.18:117][347]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.17-17.35.18:138][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020862s)
+[2020.04.17-17.35.18:139][347]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.17-17.35.18:139][347]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2020.04.17-17.35.18:139][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.022150s)
+[2020.04.17-17.35.18:194][347]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.17-17.35.18:208][347]LogInit: FAudioDevice initialized.
+[2020.04.17-17.35.18:244][347]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.17-17.35.18:246][347]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.04.17-13.35.18
+[2020.04.17-17.35.18:247][347]LogWorld: Bringing up level for play took: 0.002415
+[2020.04.17-17.35.18:261][347]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.762
+[2020.04.17-17.35.18:262][347]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.17-17.37.58:443][892]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.17-17.37.58:443][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-17.37.58:487][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.17-17.37.58:487][892]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.17-17.37.58:533][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-17.37.58:566][893]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.04.17-17.38.04:099][144]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.17-17.38.05:511][205]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.17-17.38.05:511][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.17-17.38.05:511][205]PIE: New page: PIE session: FirstPersonExampleMap (Apr 17, 2020, 9:38:05 AM)
+[2020.04.17-17.38.05:512][205]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.17-17.38.05:528][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015921s)
+[2020.04.17-17.38.05:529][205]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.17-17.38.05:529][205]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2020.04.17-17.38.05:529][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017232s)
+[2020.04.17-17.38.05:588][205]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.17-17.38.05:603][205]LogInit: FAudioDevice initialized.
+[2020.04.17-17.38.05:610][205]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.17-17.38.05:619][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-17.38.05:664][205]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.17-17.38.05:668][205]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.04.17-13.38.05
+[2020.04.17-17.38.05:669][205]LogWorld: Bringing up level for play took: 0.003679
+[2020.04.17-17.38.05:691][205]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.667
+[2020.04.17-17.38.05:691][205]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.17-17.38.05:821][205]LogRenderer: Reallocating scene render targets to support 1024x380 Format 9 NumSamples 1 (Frame:1).
+[2020.04.17-17.38.08:304][322]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.17-17.38.08:305][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-17.38.08:338][322]LogSlate: Window 'FPTest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.17-17.38.08:388][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.17-17.38.08:388][322]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.17-17.38.08:472][323]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.04.17-17.38.10:000][387]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.17-17.38.11:582][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.17-17.38.12:563][478]LogSlate: Window 'Save Content' being destroyed
+[2020.04.17-17.38.12:579][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.17-17.38.13:080][478]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/FirstPersonExampleMapEE8067C041FC93358C32A5A474E40C5F.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.04.17-17.38.13:139][478]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.548
+[2020.04.17-17.38.49:205][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
