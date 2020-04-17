@@ -1481,3 +1481,96 @@ LogInit: Object subsystem initialized
 [2020.04.17-16.33.42:512][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.04.17-16.33.42:550][730]LogPlayLevel: Display: Destroying online subsystem :Context_31
 [2020.04.17-16.38.18:531][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.17-16.44.06:455][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.17-16.45.54:879][342]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.17-16.48.15:440][ 24]LogAIModule: Creating AISystem for world Menu
+[2020.04.17-16.48.15:448][ 24]LogAssetEditorManager: Opening Asset editor for World /Game/Menu.Menu
+[2020.04.17-16.48.15:510][ 24]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.17-16.48.15:511][ 24]LightingResults: New page: Lighting Build
+[2020.04.17-16.48.15:516][ 24]LoadErrors: New page: Loading map: Menu.umap
+[2020.04.17-16.48.15:598][ 24]MapCheck: New page: Map Check
+[2020.04.17-16.48.15:598][ 24]LightingResults: New page: Lighting Build
+[2020.04.17-16.48.15:703][ 24]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.17-16.48.15:827][ 24]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.17-16.48.19:182][ 24]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,353.984ms to complete.
+[2020.04.17-16.48.19:186][ 24]LogFileHelpers: Loading map 'Menu' took 3.687
+[2020.04.17-16.48.29:873][596]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.17-16.48.29:923][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu.Menu:PersistentLevel.Menu'
+[2020.04.17-16.48.29:924][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.17-16.48.29:924][596]PIE: New page: PIE session: Menu (Apr 17, 2020, 8:48:29 AM)
+[2020.04.17-16.48.29:925][596]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Menu
+[2020.04.17-16.48.29:926][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001620s)
+[2020.04.17-16.48.29:928][596]LogAIModule: Creating AISystem for world Menu
+[2020.04.17-16.48.29:928][596]LogPlayLevel: PIE: World Init took: (0.001831s)
+[2020.04.17-16.48.29:928][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu.Menu to /Game/UEDPIE_0_Menu.Menu (0.003672s)
+[2020.04.17-16.48.30:021][596]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.17-16.48.30:038][596]LogInit: FAudioDevice initialized.
+[2020.04.17-16.48.30:077][596]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.17-16.48.30:078][596]LogWorld: Bringing World /Game/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2020.04.17-12.48.30
+[2020.04.17-16.48.30:081][596]LogWorld: Bringing up level for play took: 0.002946
+[2020.04.17-16.48.30:119][596]PIE: Play in editor start time for /Game/UEDPIE_0_Menu 1.095
+[2020.04.17-16.48.30:119][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu.Menu:PersistentLevel.Menu'
+[2020.04.17-16.48.47:260][561]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.04.17-16.48.47:261][561]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.04.17-16.48.48:456][561]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.17-16.48.48:457][561]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.17-16.48.48:472][561]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.04.17-12.48.48
+[2020.04.17-16.48.48:472][561]LogWorld: Bringing up level for play took: 0.014078
+[2020.04.17-16.48.48:476][561]LogLoad: Took 1.215327 seconds to LoadMap(/Game/FirstPersonBP/Maps/FirstPersonExampleMap)
+[2020.04.17-16.48.50:759][684]LogBlueprintUserMessages: [GameInstance2_C_19] Translation: X=250.000 Y=131.480 Z=500.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2020.04.17-16.48.51:410][723]LogBlueprintUserMessages: [GameInstance2_C_19] Translation: X=250.000 Y=8.271 Z=500.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2020.04.17-16.48.52:127][766]LogBlueprintUserMessages: [GameInstance2_C_19] Translation: X=250.000 Y=-360.323 Z=300.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2020.04.17-16.48.53:297][836]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu.Menu:PersistentLevel.Menu'
+[2020.04.17-16.48.53:297][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-16.48.53:348][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.17-16.48.53:348][836]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu.Menu:PersistentLevel.Menu'
+[2020.04.17-16.48.53:385][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-16.48.53:409][837]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.04.17-16.49.22:966][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.17-16.49.24:248][ 56]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.17-16.49.24:282][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu.Menu:PersistentLevel.Menu'
+[2020.04.17-16.49.24:282][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.17-16.49.24:283][ 56]PIE: New page: PIE session: Menu (Apr 17, 2020, 8:49:24 AM)
+[2020.04.17-16.49.24:465][ 56]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Menu
+[2020.04.17-16.49.24:470][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004526s)
+[2020.04.17-16.49.24:470][ 56]LogAIModule: Creating AISystem for world Menu
+[2020.04.17-16.49.24:471][ 56]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2020.04.17-16.49.24:471][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu.Menu to /Game/UEDPIE_0_Menu.Menu (0.005827s)
+[2020.04.17-16.49.24:533][ 56]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.17-16.49.24:548][ 56]LogInit: FAudioDevice initialized.
+[2020.04.17-16.49.24:582][ 56]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.17-16.49.24:583][ 56]LogWorld: Bringing World /Game/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2020.04.17-12.49.24
+[2020.04.17-16.49.24:583][ 56]LogWorld: Bringing up level for play took: 0.000539
+[2020.04.17-16.49.24:602][ 56]PIE: Play in editor start time for /Game/UEDPIE_0_Menu -0.421
+[2020.04.17-16.49.24:603][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu.Menu:PersistentLevel.Menu'
+[2020.04.17-16.49.25:337][ 95]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.04.17-16.49.25:337][ 95]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.04.17-16.49.25:800][ 95]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.17-16.49.25:800][ 95]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.17-16.49.25:809][ 95]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.04.17-12.49.25
+[2020.04.17-16.49.25:810][ 95]LogWorld: Bringing up level for play took: 0.008714
+[2020.04.17-16.49.25:811][ 95]LogLoad: Took 0.475170 seconds to LoadMap(/Game/FirstPersonBP/Maps/FirstPersonExampleMap)
+[2020.04.17-16.49.27:997][215]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu.Menu:PersistentLevel.Menu'
+[2020.04.17-16.49.27:998][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-16.49.28:055][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.17-16.49.28:055][215]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu.Menu:PersistentLevel.Menu'
+[2020.04.17-16.49.28:127][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-16.49.28:157][216]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.04.17-16.49.29:906][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.17-16.49.32:262][413]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenu.MainMenu
+[2020.04.17-16.49.37:444][597]LogSlate: Window 'MainMenu' being destroyed
+[2020.04.17-16.50.04:147][  0]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Target.Target
+[2020.04.17-16.50.11:021][298]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameInstance2.GameInstance2
+[2020.04.17-16.53.08:167][889]BlueprintLog: New page: Compile GameInstance2
+[2020.04.17-16.53.08:373][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameInstance2" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/GameInstance2.uasset" SILENT=true
+[2020.04.17-16.53.08:472][889]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/GameInstance22FCC798C4F7B9D8AB92B71911B02538B.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/GameInstance2.uasset'
+[2020.04.17-16.53.08:865][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameInstance2" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/GameInstance2.uasset" SILENT=true
+[2020.04.17-16.53.08:954][897]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/GameInstance2691CFDBB4FDC0D11ABA60A90E2379400.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/GameInstance2.uasset'
+[2020.04.17-16.53.18:567][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/Target.uasset" SILENT=true
+[2020.04.17-16.53.18:638][131]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/TargetD87872D0484BB417BB2458961AD40E92.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/Target.uasset'
+[2020.04.17-16.58.45:907][ 99]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Menu' took 0.054
+[2020.04.17-16.58.45:910][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Target] ([1] browsable assets)...
+[2020.04.17-16.58.45:911][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/Target]
+[2020.04.17-16.58.45:911][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target" FILE="../../../../../../Documents/Unreal Projects/FPTest/Saved/Autosaves/Game/Target_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.04.17-16.58.45:971][ 99]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/Target_Auto37BEFB083434FCAB9DB42D2885C3BAE5F.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Saved/Autosaves/Game/Target_Auto3.uasset'
+[2020.04.17-16.58.45:973][ 99]LogFileHelpers: Auto-saving content packages took 0.063
