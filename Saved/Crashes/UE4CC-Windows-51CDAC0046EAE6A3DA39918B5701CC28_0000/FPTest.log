@@ -1,0 +1,477 @@
+﻿Log file open, 04/29/20 10:58:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FPTest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.433635
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.212s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/149063/Desktop/VB/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.008s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.04.29-14.58.53:753][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.29-14.58.53:753][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.29-14.58.53:830][  0]LogHAL: Display: Platform has ~ 8 GB [8464732160 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.29-14.58.53:830][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2020.04.29-14.58.53:830][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.29-14.58.53:839][  0]LogInit: Computer: CAIT-0048
+[2020.04.29-14.58.53:839][  0]LogInit: User: 149063
+[2020.04.29-14.58.53:839][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.04.29-14.58.53:839][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.29-14.58.53:840][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.04.29-14.58.53:840][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.29-14.58.53:840][  0]LogMemory: Process Physical Memory: 100.33 MB used, 100.34 MB peak
+[2020.04.29-14.58.53:840][  0]LogMemory: Process Virtual Memory: 84.05 MB used, 84.05 MB peak
+[2020.04.29-14.58.53:840][  0]LogMemory: Physical Memory: 5004.61 MB used,  3067.99 MB free, 8072.60 MB total
+[2020.04.29-14.58.53:840][  0]LogMemory: Virtual Memory: 4618.83 MB used,  3067.99 MB free, 134217728.00 MB total
+[2020.04.29-14.58.54:096][  0]LogInit: Using OS detected language (en-US).
+[2020.04.29-14.58.54:096][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.29-14.58.54:097][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.29-14.58.54:679][  0]LogStreaming: Display: Took  0.583s to InitEngineTextLocalization.
+[2020.04.29-14.58.54:791][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.29-14.58.54:791][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.29-14.58.58:075][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.29-14.58.58:075][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.29-14.58.58:125][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2020.04.29-14.58.58:125][  0]LogD3D11RHI:       128/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.04.29-14.58.58:128][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.29-14.58.58:128][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.29-14.58.58:128][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.29-14.58.58:136][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.29-14.58.58:136][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.29-14.58.58:136][  0]LogWindows: EnumDisplayDevices:
+[2020.04.29-14.58.58:137][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2020.04.29-14.58.58:137][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.04.29-14.58.58:138][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.04.29-14.58.58:138][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.04.29-14.58.58:138][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2020.04.29-14.58.58:138][  0]LogD3D11RHI:   Driver Version: 25.20.100.6472 (internal:25.20.100.6472, unified:25.20.100.6472)
+[2020.04.29-14.58.58:138][  0]LogD3D11RHI:      Driver Date: 12-10-2018
+[2020.04.29-14.58.58:138][  0]LogRHI: Texture pool is 1502 MB (70% of 2146 MB)
+[2020.04.29-14.58.58:166][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.29-14.58.58:176][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.04.29-14.58.58:178][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../../Documents/Unreal Projects/FPTest/Intermediate/Shaders/WorkingDirectory/9468/).
+[2020.04.29-14.58.58:179][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/149063/AppData/Local/Temp/UnrealShaderWorkingDir/D3DC9D944F6CBFC54AFA5B95CC7BE634/'.
+[2020.04.29-14.58.58:749][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.04.29-14.58.58:772][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.04.29-14.58.58:790][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.04.29-14.58.58:808][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.04.29-14.58.58:833][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.04.29-14.58.58:853][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.04.29-14.58.58:871][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.04.29-14.58.58:891][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.04.29-14.58.58:900][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:027][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.29-14.58.59:029][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.04.29-14.58.59:114][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.04.29-14.58.59:114][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.04.29-14.58.59:146][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.04.29-14.58.59:146][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.04.29-14.58.59:163][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.04.29-14.58.59:186][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.04.29-14.58.59:210][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.04.29-14.58.59:247][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.04.29-14.58.59:263][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.04.29-14.58.59:263][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.29-14.58.59:432][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.29-14.58.59:432][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.29-14.58.59:432][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.29-14.59.02:608][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.29-14.59.02:679][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/149063/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.04.29-14.59.02:679][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/149063/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2020.04.29-14.59.02:680][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/Unreal Projects/FPTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.29-14.59.02:680][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.29-14.59.02:680][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/Unreal Projects/FPTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.29-14.59.02:680][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.29-14.59.02:712][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.29-14.59.02:725][  0]LogDerivedDataCache: Using Local data cache path C:/Users/149063/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.29-14.59.02:725][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.29-14.59.02:725][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.29-14.59.02:754][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.29-14.59.02:756][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.29-14.59.02:780][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.29-14.59.03:100][  0]LogAssetRegistry: FAssetRegistry took 0.0282 seconds to start up
+[2020.04.29-14.59.03:592][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.29-14.59.03:830][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.04.29-14.59.03:835][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.04.29-14.59.03:835][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.29-14.59.03:835][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.29-14.59.03:836][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.04.29-14.59.03:862][  0]LogNetVersion: FPTest 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4053946787)
+[2020.04.29-14.59.04:805][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.225257 seconds
+[2020.04.29-14.59.04:815][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2020.04.29-14.59.04:815][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2020.04.29-14.59.04:815][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.29-14.59.07:625][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.29-14.59.07:640][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.29-14.59.07:829][  0]SourceControl: Source control is disabled
+[2020.04.29-14.59.07:829][  0]SourceControl: Source control is disabled
+[2020.04.29-14.59.07:831][  0]SourceControl: Source control is disabled
+[2020.04.29-14.59.07:833][  0]SourceControl: Source control is disabled
+[2020.04.29-14.59.08:034][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.29-14.59.08:149][  0]LogOcInput: OculusInput pre-init called
+[2020.04.29-14.59.08:234][  0]LogEngine: Initializing Engine...
+[2020.04.29-14.59.08:235][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.29-14.59.08:237][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.04.29-14.59.08:237][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.04.29-14.59.08:237][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.04.29-14.59.08:237][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.04.29-14.59.08:578][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.29-14.59.08:599][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.29-14.59.08:809][  0]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.29-14.59.08:895][  0]LogInit: FAudioDevice initialized.
+[2020.04.29-14.59.08:896][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.29-14.59.09:002][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/149063/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.04.29-14.59.09:016][  0]LogInit: Texture streaming: Enabled
+[2020.04.29-14.59.09:040][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.29-14.59.09:058][  0]LogInit: Transaction tracking system initialized
+[2020.04.29-14.59.09:088][  0]BlueprintLog: New page: Editor Load
+[2020.04.29-14.59.09:200][  0]LocalizationService: Localization service is disabled
+[2020.04.29-14.59.10:027][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.29-14.59.10:027][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.29-14.59.10:027][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.04.29-14.59.10:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.04.29-14.59.10:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.04.29-14.59.10:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.04.29-14.59.10:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.04.29-14.59.10:198][  0]LogFileCache: Scanning file cache for directory 'C:/Users/149063/Documents/Unreal Projects/FPTest/Content/' took 0.03s
+[2020.04.29-14.59.10:198][  0]SourceControl: Source control is disabled
+[2020.04.29-14.59.10:198][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-14.59.10:214][  0]LightingResults: New page: Lighting Build
+[2020.04.29-14.59.10:218][  0]MapCheck: New page: Map Check
+[2020.04.29-14.59.10:218][  0]LightingResults: New page: Lighting Build
+[2020.04.29-14.59.10:305][  0]LogAIModule: Creating AISystem for world Menu
+[2020.04.29-14.59.10:306][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-14.59.10:331][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-14.59.10:448][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 116.18ms to complete.
+[2020.04.29-14.59.10:448][  0]LogFileHelpers: Loading map 'Menu' took 0.250
+[2020.04.29-14.59.10:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-14.59.10:645][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-14.59.10:656][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-14.59.10:665][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-14.59.10:690][  0]LogCollectionManager: Loaded 0 collections in 0.003394 seconds
+[2020.04.29-14.59.10:763][  0]LogFileCache: Scanning file cache for directory 'C:/Users/149063/Documents/Unreal Projects/FPTest/Saved/Collections/' took 0.01s
+[2020.04.29-14.59.10:763][  0]LogFileCache: Scanning file cache for directory 'C:/Users/149063/Documents/Unreal Projects/FPTest/Content/Developers/149063/Collections/' took 0.01s
+[2020.04.29-14.59.10:763][  0]LogFileCache: Scanning file cache for directory 'C:/Users/149063/Documents/Unreal Projects/FPTest/Content/Collections/' took 0.01s
+[2020.04.29-14.59.10:763][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.04.29-14.59.10:781][  0]LogContentBrowser: Native class hierarchy populated in 0.0157 seconds. Added 2572 classes and 603 folders.
+[2020.04.29-14.59.10:806][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.29-14.59.11:390][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.29-14.59.11:406][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.29-14.59.11:488][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.29-14.59.11:492][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.29-14.59.11:514][  0]LogSlate: Took 0.008517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.29-14.59.11:678][  0]LogRenderer: Reallocating scene render targets to support 1012x368 Format 9 NumSamples 1 (Frame:1).
+[2020.04.29-14.59.11:961][  0]LogSlate: Took 0.007624 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.29-14.59.12:052][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.29-14.59.12:052][  0]LogLoad: (Engine Initialization) Total time: 22.99 seconds
+[2020.04.29-14.59.12:052][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.29-14.59.12:107][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.04.29-14.59.12:201][  1]LogAssetRegistry: Asset discovery search completed in 9.1234 seconds
+[2020.04.29-14.59.12:205][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.04.29-14.59.12:205][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2020.04.29-14.59.13:522][  5]LogSlate: Took 0.000432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.29-14.59.21:576][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-14.59.22:868][ 99]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PlayerController2.PlayerController2
+[2020.04.29-14.59.23:861][ 99]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2020.04.29-14.59.26:103][ 99]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/GUI.GUI
+[2020.04.29-14.59.26:681][ 99]LogLinker: Warning: Can't resolve asset name
+[2020.04.29-14.59.26:695][ 99]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenu.MainMenu
+[2020.04.29-14.59.27:187][ 99]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/PauseMenu.PauseMenu
+[2020.04.29-14.59.27:675][ 99]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2020.04.29-14.59.28:537][ 99]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Target.Target
+[2020.04.29-14.59.29:166][ 99]LogSlate: Took 0.010982 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.29-14.59.29:558][100]LogSlate: Took 0.013861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.29-15.00.12:540][744]LogMetaData: Removing '/Game/ScoreStuff/playerScore.playerScore' ref from Metadata '/Game/ScoreStuff/NewUserDefinedStruct.PackageMetaData'
+[2020.04.29-15.00.12:540][744]LogMetaData: Removing '/Game/ScoreStuff/playerScore.playerScore:MemberVar_0_7CF153954C132F1EB2B7CBA75523DBCE' ref from Metadata '/Game/ScoreStuff/NewUserDefinedStruct.PackageMetaData'
+[2020.04.29-15.00.12:612][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ScoreStuff/playerScore" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/playerScore.uasset" SILENT=true
+[2020.04.29-15.00.12:635][744]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/playerScore03A263704E5EFD42B06F9DAA79F396EE.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/playerScore.uasset'
+[2020.04.29-15.00.17:745][864]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/ScoreStuff/playerScore.playerScore
+[2020.04.29-15.00.30:907][307]LogSlate: Took 0.008044 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.29-15.01.25:916][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ScoreStuff/playerScore" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/playerScore.uasset" SILENT=true
+[2020.04.29-15.01.25:971][286]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/playerScore239233874C2F30B08D5B7F9FD04F2716.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/playerScore.uasset'
+[2020.04.29-15.01.48:114][ 28]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.29-15.02.00:333][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ScoreStuff/scoreSave" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/scoreSave.uasset" SILENT=true
+[2020.04.29-15.02.00:347][468]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/scoreSave97E3DB4D49B11A1F4980AA9EE7DB3757.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/scoreSave.uasset'
+[2020.04.29-15.02.00:352][468]LogMetaData: Removing '/Game/ScoreStuff/scoreSave.SKEL_scoreSave_C' ref from Metadata '/Game/ScoreStuff/NewBlueprint.PackageMetaData'
+[2020.04.29-15.02.00:352][468]LogMetaData: Removing '/Game/ScoreStuff/scoreSave.scoreSave_C' ref from Metadata '/Game/ScoreStuff/NewBlueprint.PackageMetaData'
+[2020.04.29-15.02.00:375][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ScoreStuff/scoreSave" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/scoreSave.uasset" SILENT=true
+[2020.04.29-15.02.00:401][468]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/scoreSave888A541F4F920A7A8946DEB535B810BC.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/scoreSave.uasset'
+[2020.04.29-15.02.09:451][588]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ScoreStuff/scoreSave.scoreSave
+[2020.04.29-15.02.15:837][845]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.29-15.02.16:666][885]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.29-15.02.34:244][833]BlueprintLog: New page: Compile scoreSave
+[2020.04.29-15.02.34:325][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ScoreStuff/scoreSave" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/scoreSave.uasset" SILENT=true
+[2020.04.29-15.02.34:357][833]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/scoreSaveC9A0CD924972740BEF0E40B444CADCB2.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/scoreSave.uasset'
+[2020.04.29-15.02.34:814][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ScoreStuff/scoreSave" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/scoreSave.uasset" SILENT=true
+[2020.04.29-15.02.34:844][853]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/scoreSaveC9D8A0794F5F20A6F7FC1092E2CC2968.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/scoreSave.uasset'
+[2020.04.29-15.13.46:966][935]LogSlate: Window 'scoreSave' being destroyed
+[2020.04.29-15.13.46:977][935]LogSlate: Window 'scoreSave' being destroyed
+[2020.04.29-15.13.54:577][341]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameInstance2.GameInstance2
+[2020.04.29-15.14.10:424][ 26]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PlayerController2.PlayerController2
+[2020.04.29-15.14.24:408][589]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/GUI.GUI
+[2020.04.29-15.14.40:904][330]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Target.Target
+[2020.04.29-15.14.52:738][848]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenu.MainMenu
+[2020.04.29-15.15.00:524][151]LogAssetEditorManager: Opening Asset editor for World /Game/Menu.Menu
+[2020.04.29-15.15.00:579][151]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-15.15.00:579][151]LightingResults: New page: Lighting Build
+[2020.04.29-15.15.00:579][151]LoadErrors: New page: Loading map: Menu.umap
+[2020.04.29-15.15.00:580][151]MapCheck: New page: Map Check
+[2020.04.29-15.15.00:580][151]LightingResults: New page: Lighting Build
+[2020.04.29-15.15.00:638][151]LogAIModule: Creating AISystem for world Menu
+[2020.04.29-15.15.00:648][151]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-15.15.00:729][151]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-15.15.03:384][151]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,654.371ms to complete.
+[2020.04.29-15.15.03:386][151]LogFileHelpers: Loading map 'Menu' took 2.808
+[2020.04.29-15.15.06:260][276]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Menu.Menu:PersistentLevel.Menu
+[2020.04.29-15.15.14:555][629]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.29-15.15.14:571][629]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.04.29-15.15.14:617][629]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-15.15.14:617][629]LightingResults: New page: Lighting Build
+[2020.04.29-15.15.14:618][629]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2020.04.29-15.15.14:619][629]MapCheck: New page: Map Check
+[2020.04.29-15.15.14:619][629]LightingResults: New page: Lighting Build
+[2020.04.29-15.15.14:699][629]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-15.15.14:801][629]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-15.15.14:931][629]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 131.231ms to complete.
+[2020.04.29-15.15.14:932][629]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.315
+[2020.04.29-15.15.17:965][767]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2020.04.29-15.16.42:445][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-15.16.42:500][ 43]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.29-15.16.42:503][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-15.16.42:521][ 43]PIE: New page: PIE session: FirstPersonExampleMap (Apr 29, 2020, 7:16:42 AM)
+[2020.04.29-15.16.42:523][ 43]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.29-15.16.42:553][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030534s)
+[2020.04.29-15.16.42:554][ 43]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.29-15.16.42:555][ 43]LogPlayLevel: PIE: World Init took: (0.001524s)
+[2020.04.29-15.16.42:555][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.032349s)
+[2020.04.29-15.16.42:629][ 43]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.29-15.16.42:646][ 43]LogInit: FAudioDevice initialized.
+[2020.04.29-15.16.42:698][ 43]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.29-15.16.42:701][ 43]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.04.29-11.16.42
+[2020.04.29-15.16.42:703][ 43]LogWorld: Bringing up level for play took: 0.004590
+[2020.04.29-15.16.42:754][ 43]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2020.04.29-15.16.42:761][ 43]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.621
+[2020.04.29-15.16.42:761][ 43]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.29-15.16.47:538][317]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.29-15.16.47:548][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-15.16.47:593][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-15.16.47:594][317]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.29-15.16.47:644][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-15.16.47:671][318]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.04.29-15.16.52:483][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.29-15.17.07:748][101]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2020.04.29-15.18.44:033][344]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ScoreStuff/scoreSave.scoreSave
+[2020.04.29-15.18.50:336][574]LogClass: Warning: Type mismatch in playerScores of SKEL_scoreSave_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2020.04.29-15.18.52:679][664]BlueprintLog: New page: Compile scoreSave
+[2020.04.29-15.18.52:696][664]LogClass: Warning: Type mismatch in playerScores of scoreSave_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2020.04.29-15.18.52:772][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ScoreStuff/scoreSave" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/scoreSave.uasset" SILENT=true
+[2020.04.29-15.18.52:805][664]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/scoreSave12309D4246F978C5A33061848F672F68.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/scoreSave.uasset'
+[2020.04.29-15.18.53:161][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ScoreStuff/scoreSave" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/scoreSave.uasset" SILENT=true
+[2020.04.29-15.18.53:185][675]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/scoreSave8FAC16C242717958E4116EB819963CDE.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/scoreSave.uasset'
+[2020.04.29-15.19.49:516][543]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.04.29-15.19.55:894][768]LogClass: Warning: Type mismatch in temp of SKEL_FirstPersonGameMode_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2020.04.29-15.22.06:853][161]BlueprintLog: New page: Compile GameInstance2
+[2020.04.29-15.22.06:998][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameInstance2" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/GameInstance2.uasset" SILENT=true
+[2020.04.29-15.22.07:062][161]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/GameInstance2A59126104638B3EE9014C7BAAF515E52.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/GameInstance2.uasset'
+[2020.04.29-15.22.07:249][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameInstance2" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/GameInstance2.uasset" SILENT=true
+[2020.04.29-15.22.07:291][164]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/GameInstance26F1AB416466A389DDCB3AEA84F9BA675.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/GameInstance2.uasset'
+[2020.04.29-15.22.21:100][648]BlueprintLog: New page: Compile PlayerController2
+[2020.04.29-15.22.21:377][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerController2" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/PlayerController2.uasset" SILENT=true
+[2020.04.29-15.22.21:428][648]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/PlayerController2312BC2704B0A3F1C67182FA1143B374F.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/PlayerController2.uasset'
+[2020.04.29-15.22.21:743][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerController2" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/PlayerController2.uasset" SILENT=true
+[2020.04.29-15.22.21:785][657]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/PlayerController2183520834CDD1AAE5BE580B62DD2D145.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/PlayerController2.uasset'
+[2020.04.29-15.24.29:192][810]LogUObjectBase: Warning: Object is not registered
+[2020.04.29-15.24.30:752][810]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.559 s
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: 
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: Stack: 
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: [Callstack] 0x00007fffebaa71f6 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: [Callstack] 0x00007fffeb7e0c92 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: [Callstack] 0x00007fffeb7fb356 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: [Callstack] 0x00007fffe6f411db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: [Callstack] 0x00007fffe6f5060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: [Callstack] 0x00007fffe4a9da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: [Callstack] 0x00007fffe3b2ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: [Callstack] 0x00007fffe3aef337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: [Callstack] 0x00007fffe7e28204 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: [Callstack] 0x00007fffe806e933 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: [Callstack] 0x00007fffe7e8281a UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: [Callstack] 0x00007fffe7e58190 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-15.24.30:752][810]LogOutputDevice: Error: [Callstack] 0x00007fffe7e4b073 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.29-15.24.30:753][810]LogOutputDevice: Error: [Callstack] 0x00007ff82c31d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.29-15.24.30:753][810]LogOutputDevice: Error: [Callstack] 0x00007ff82c310270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.29-15.24.30:753][810]LogOutputDevice: Error: [Callstack] 0x00007ff82c31f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.29-15.24.30:753][810]LogOutputDevice: Error: [Callstack] 0x00007ff82c30c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.29-15.24.30:753][810]LogOutputDevice: Error: [Callstack] 0x0000023ea2fcca66 USER32.dll!UnknownFunction []
+[2020.04.29-15.24.30:753][810]LogOutputDevice: Error: [Callstack] 0x0000023ea2fcc582 USER32.dll!UnknownFunction []
+[2020.04.29-15.24.30:753][810]LogOutputDevice: Error: [Callstack] 0x00007ff82c320646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.29-15.24.30:753][810]LogOutputDevice: Error: [Callstack] 0x00007ff6661654e5 UE4Editor.exe!UnknownFunction []
+[2020.04.29-15.24.30:753][810]LogOutputDevice: Error: [Callstack] 0x00007ff666175b3c UE4Editor.exe!UnknownFunction []
+[2020.04.29-15.24.30:753][810]LogOutputDevice: Error: [Callstack] 0x00007ff666175bba UE4Editor.exe!UnknownFunction []
+[2020.04.29-15.24.30:753][810]LogOutputDevice: Error: [Callstack] 0x00007ff666183dac UE4Editor.exe!UnknownFunction []
+[2020.04.29-15.24.30:753][810]LogOutputDevice: Error: [Callstack] 0x00007ff666185aaa UE4Editor.exe!UnknownFunction []
+[2020.04.29-15.24.30:753][810]LogOutputDevice: Error: [Callstack] 0x00007ff84f8e7974 KERNEL32.DLL!UnknownFunction []
+[2020.04.29-15.24.30:753][810]LogOutputDevice: Error: [Callstack] 0x00007ff84fb8a271 ntdll.dll!UnknownFunction []
+[2020.04.29-15.24.30:753][810]LogOutputDevice: Error: 
+[2020.04.29-15.24.30:754][810]LogStats:                SubmitErrorReport -  0.001 s
