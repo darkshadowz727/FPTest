@@ -583,3 +583,123 @@ LogInit: Object subsystem initialized
 [2020.04.30-22.04.32:134][904]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PlayerController2.PlayerController2
 [2020.04.30-22.08.44:148][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.04.30-22.08.44:307][ 78]LogRenderer: Reallocating scene render targets to support 1012x456 Format 9 NumSamples 1 (Frame:18654).
+[2020.04.30-22.14.10:869][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-22.14.15:767][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.30-22.14.16:069][496]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/Menu1D8CB0DC4AABC1BA0C4398A2766CAAF0.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/Menu.umap'
+[2020.04.30-22.21.31:619][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-22.21.31:711][922]LogSlate: Window 'PlayerController2' being destroyed
+[2020.04.30-22.21.31:719][922]LogSlate: Window 'PlayerController2' being destroyed
+[2020.04.30-22.21.32:022][922]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.30-22.27.20:451][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-22.27.30:193][296]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.04.30-22.28.31:921][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-22.28.42:508][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-22.28.54:363][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-22.29.04:916][663]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.30-22.29.06:118][663]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/FirstPersonCharacter0A71199B4B1E929E75929181CD9C46B0.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.30-22.29.07:053][677]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/FirstPersonCharacterE4A51931435980D52ADF669F993DAF77.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.30-22.29.10:298][791]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.30-22.29.10:392][791]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu.Menu:PersistentLevel.Menu'
+[2020.04.30-22.29.10:398][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.30-22.29.10:405][791]PIE: New page: PIE session: Menu (Apr 30, 2020, 2:29:10 PM)
+[2020.04.30-22.29.11:926][791]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Menu
+[2020.04.30-22.29.11:934][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008195s)
+[2020.04.30-22.29.11:938][791]LogAIModule: Creating AISystem for world Menu
+[2020.04.30-22.29.11:942][791]LogPlayLevel: PIE: World Init took: (0.007697s)
+[2020.04.30-22.29.11:943][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu.Menu to /Game/UEDPIE_0_Menu.Menu (0.016764s)
+[2020.04.30-22.29.12:061][791]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.30-22.29.12:096][791]LogInit: FAudioDevice initialized.
+[2020.04.30-22.29.12:148][791]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.30-22.29.12:154][791]LogWorld: Bringing World /Game/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2020.04.30-18.29.12
+[2020.04.30-22.29.12:157][791]LogWorld: Bringing up level for play took: 0.002876
+[2020.04.30-22.29.12:212][791]PIE: Play in editor start time for /Game/UEDPIE_0_Menu 1.635
+[2020.04.30-22.29.12:213][791]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu.Menu:PersistentLevel.Menu'
+[2020.04.30-22.29.13:390][849]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.04.30-22.29.13:391][849]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.04.30-22.29.14:017][849]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.30-22.29.14:017][849]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.30-22.29.14:034][849]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.04.30-18.29.14
+[2020.04.30-22.29.14:035][849]LogWorld: Bringing up level for play took: 0.016448
+[2020.04.30-22.29.14:042][849]LogLoad: Took 0.651854 seconds to LoadMap(/Game/FirstPersonBP/Maps/FirstPersonExampleMap)
+[2020.04.30-22.29.29:345][672]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu.Menu:PersistentLevel.Menu'
+[2020.04.30-22.29.29:347][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-22.29.29:410][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.30-22.29.29:410][672]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu.Menu:PersistentLevel.Menu'
+[2020.04.30-22.29.29:470][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-22.29.29:502][673]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.04.30-22.29.30:034][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.30-22.30.48:633][ 98]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Menu' took 0.081
+[2020.04.30-22.30.48:652][ 98]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.04.30-22.30.48:684][ 98]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.04.30-22.30.48:685][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.04.30-22.30.48:911][ 98]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/FirstPersonCharacter_Auto102CB35C94423608B445475B777EBAB50.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2020.04.30-22.30.48:922][ 98]LogFileHelpers: Auto-saving content packages took 0.284
+[2020.04.30-22.37.34:281][333]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.30-22.37.34:797][333]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/FirstPersonCharacter2DC99B5C4D2CC301DAEBBDAD0363D421.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.30-22.37.35:124][334]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/FirstPersonCharacter1E19087E4CFC82D9207B3E8EA3803608.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.30-22.37.40:716][498]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/ScoreStuff/playerScore.playerScore
+[2020.04.30-22.37.58:599][719]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ScoreStuff/scoreSave.scoreSave
+[2020.04.30-22.37.59:474][737]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ScoreStuff/ScoreLine.ScoreLine
+[2020.04.30-22.38.00:530][751]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ScoreStuff/Scoreboard.Scoreboard
+[2020.04.30-22.38.27:789][404]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2020.04.30-22.40.18:313][690]LogEditorTransaction: Undo Delete current selection
+[2020.04.30-22.40.26:510][  6]BlueprintLog: New page: Compile FirstPersonGameMode
+[2020.04.30-22.40.26:936][  6]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/FirstPersonGameMode428F070C42A4C0C19760DE95E665F50C.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2020.04.30-22.40.27:278][ 10]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/FirstPersonGameMode8F2E4832498A67275182B4809E7509B9.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2020.04.30-22.42.17:340][265]BlueprintLog: New page: Compile FirstPersonGameMode
+[2020.04.30-22.42.17:745][265]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/FirstPersonGameModeCFB3D9404ABBB02A55B2E5B7152B7F93.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2020.04.30-22.42.18:338][280]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/FirstPersonGameModeE1B793C14BEDFF3B31F5368CCDDB1D28.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2020.04.30-22.42.20:649][382]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.30-22.42.20:708][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu.Menu:PersistentLevel.Menu'
+[2020.04.30-22.42.20:708][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.30-22.42.20:708][382]PIE: New page: PIE session: Menu (Apr 30, 2020, 2:42:20 PM)
+[2020.04.30-22.42.21:501][382]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Menu
+[2020.04.30-22.42.21:502][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001394s)
+[2020.04.30-22.42.21:503][382]LogAIModule: Creating AISystem for world Menu
+[2020.04.30-22.42.21:504][382]LogPlayLevel: PIE: World Init took: (0.001296s)
+[2020.04.30-22.42.21:504][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu.Menu to /Game/UEDPIE_0_Menu.Menu (0.002976s)
+[2020.04.30-22.42.21:563][382]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.30-22.42.21:581][382]LogInit: FAudioDevice initialized.
+[2020.04.30-22.42.21:617][382]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.30-22.42.21:617][382]LogWorld: Bringing World /Game/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2020.04.30-18.42.21
+[2020.04.30-22.42.21:618][382]LogWorld: Bringing up level for play took: 0.000485
+[2020.04.30-22.42.21:634][382]PIE: Play in editor start time for /Game/UEDPIE_0_Menu 1.057
+[2020.04.30-22.42.21:634][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu.Menu:PersistentLevel.Menu'
+[2020.04.30-22.42.22:282][420]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.04.30-22.42.22:282][420]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.04.30-22.42.22:640][420]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.30-22.42.22:640][420]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.30-22.42.22:648][420]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.04.30-18.42.22
+[2020.04.30-22.42.22:648][420]LogWorld: Bringing up level for play took: 0.007043
+[2020.04.30-22.42.22:650][420]LogLoad: Took 0.366968 seconds to LoadMap(/Game/FirstPersonBP/Maps/FirstPersonExampleMap)
+[2020.04.30-22.42.47:313][892]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] Times up!
+[2020.04.30-22.42.50:431][ 78]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu.Menu:PersistentLevel.Menu'
+[2020.04.30-22.42.50:432][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-22.42.50:474][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.30-22.42.50:474][ 78]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Menu.Menu_C' with ClassGeneratedBy '/Game/Menu.Menu:PersistentLevel.Menu'
+[2020.04.30-22.42.50:513][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-22.42.50:533][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.04.30-22.42.58:830][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.30-22.43.44:696][619]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Menu' took 0.045
+[2020.04.30-22.43.44:698][619]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonGameMode] ([1] browsable assets)...
+[2020.04.30-22.43.44:698][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonGameMode]
+[2020.04.30-22.43.44:790][619]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/FirstPersonGameMode_Auto29AF21E95403BFECB362BDF88106FC394.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonGameMode_Auto2.uasset'
+[2020.04.30-22.43.44:792][619]LogFileHelpers: Auto-saving content packages took 0.094
+[2020.04.30-22.50.22:448][939]BlueprintLog: New page: Compile ScoreLine
+[2020.04.30-22.50.22:562][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ScoreStuff/ScoreLine" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/ScoreLine.uasset" SILENT=true
+[2020.04.30-22.50.22:632][939]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/ScoreLineEFA39C6C458D2DAE3A7283A3CFF9F697.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/ScoreLine.uasset'
+[2020.04.30-22.50.23:083][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ScoreStuff/ScoreLine" FILE="../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/ScoreLine.uasset" SILENT=true
+[2020.04.30-22.50.23:132][955]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/ScoreLine428E53944245114EBA063E9A9D9E2CAC.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/ScoreStuff/ScoreLine.uasset'
+[2020.04.30-22.53.49:173][933]LogGarbage: Warning: 1.497400 ms for acquiring GC lock
+[2020.04.30-22.53.49:223][933]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Menu' took 0.052
+[2020.04.30-22.53.49:227][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonGameMode] ([1] browsable assets)...
+[2020.04.30-22.53.49:227][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonGameMode]
+[2020.04.30-22.53.49:366][933]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/FirstPersonGameMode_Auto3A6DB7D6A4BF96C3535F63589AA008B76.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonGameMode_Auto3.uasset'
+[2020.04.30-22.53.49:372][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScoreStuff/Scoreboard] ([1] browsable assets)...
+[2020.04.30-22.53.49:372][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScoreStuff/Scoreboard]
+[2020.04.30-22.53.49:372][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ScoreStuff/Scoreboard" FILE="../../../../../../Documents/Unreal Projects/FPTest/Saved/Autosaves/Game/ScoreStuff/Scoreboard_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.04.30-22.53.49:457][933]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/Scoreboard_Auto35CBC2F6A49F10EB5955E51AE175B8CEB.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Saved/Autosaves/Game/ScoreStuff/Scoreboard_Auto3.uasset'
+[2020.04.30-22.53.49:459][933]LogFileHelpers: Auto-saving content packages took 0.234
+[2020.04.30-22.55.22:310][946]BlueprintLog: New page: Compile FirstPersonGameMode
+[2020.04.30-22.55.22:719][946]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/FirstPersonGameMode39CAA133477BF020B639D39E810EFAF4.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2020.04.30-22.55.23:135][953]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/FPTest/Saved/FirstPersonGameMode3B25C54C410D985C16C071A6CBADE35A.tmp' to '../../../../../../Documents/Unreal Projects/FPTest/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
